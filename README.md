@@ -4,7 +4,7 @@
 서비스를 개발하여 오픈소스를 기여하는 것이 목표입니다.</p>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJayoon-oh&count_bg=%23FCDA83&title_bg=%23FABA23&icon=&icon_color=%23FCD791&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 
 <h2 align="center"> 💻 Stack <br> </p>
